@@ -76,8 +76,12 @@ body {
   width: 30px;
   height: 30px;
   margin: 0px 49%;
-  color: black;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
+
 
 .step-box{
   position: relative;
